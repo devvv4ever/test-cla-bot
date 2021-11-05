@@ -1,3 +1,3 @@
 # test-cla-bot
 
-🐑 Mäh.
+🐑 Mäh. 🐐
